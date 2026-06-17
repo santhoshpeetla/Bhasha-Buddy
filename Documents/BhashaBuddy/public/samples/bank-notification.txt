@@ -1,0 +1,5 @@
+Bank Account Verification Notice
+
+Customers must update KYC details before 10 July 2026 to continue uninterrupted account services. Please submit Aadhaar, PAN card, recent photograph, and address proof at the nearest branch.
+
+If KYC is not updated before the deadline, debit transactions may be restricted until verification is completed.
