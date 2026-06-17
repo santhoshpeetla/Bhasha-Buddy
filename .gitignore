@@ -1,0 +1,10 @@
+# Ignore everything in the user home directory by default
+/*
+
+# Allow tracking of the Documents folder and .gitignore
+!.gitignore
+!/Documents/
+
+# Ignore everything inside Documents except BhashaBuddy
+/Documents/*
+!/Documents/BhashaBuddy/
